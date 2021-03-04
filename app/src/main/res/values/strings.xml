@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="hello_blank_fragment">Anum Posted in General Knowledge</string>
+    <string name="namra_posted_in_general_knowledge">Namra posted in IQ</string>
+
+    <string name="anum">Submitted by:\n*Anum Ilyas\n*Namra Ali\n*Saheefa Ahmed</string>
+    <string name="Miss">Submitted to:\nMiss Tehreem</string>
+    <string name="email">anumilyaszia@gmail.com</string>
+    <string name="course">Course:\nAndroid Development</string>
+
+    <string name="quizapp">QuizApp</string>
+    <string name="namra_ali">Namra Ali</string>
+
+</resources>

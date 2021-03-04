@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FeedFragment">
+
+
+    <ImageView
+        android:layout_width="38dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="5dp"
+        android:background="@drawable/user"/>
+
+    <TextView
+        android:layout_width="285dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/hello_blank_fragment"
+        android:textSize="7pt"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="38dp"
+        android:layout_height="36dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="400dp"
+        android:background="@drawable/user"/>
+
+    <TextView
+        android:layout_width="285dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="400dp"
+        android:text="@string/namra_posted_in_general_knowledge"
+        android:textSize="7pt"
+        android:textStyle="bold" />
+
+</FrameLayout>
